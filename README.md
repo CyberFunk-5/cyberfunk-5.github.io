@@ -10,7 +10,7 @@
 
 ## 🗂️ Table of Contents
 
-- [About Me](#about-me)
+- [About Me](##AboutMe##)
 - [Skills](#skills)
 - [Certifications](#certifications)
 - [Projects](#projects)
@@ -79,7 +79,7 @@ A dedicated Information Security Analyst with extensive expertise in IT, cyberse
 
 ## 💼 Experience
 
-### 🏢 [Information Security Analyst at Velocity Global]
+### 🏢 Information Security Analyst at Velocity Global
 *Feb 2024 – Present*
 
 - Configured our Crowdstrike EDR to monitor network traffic and potential threats within our ecosystem. 
@@ -96,7 +96,7 @@ A dedicated Information Security Analyst with extensive expertise in IT, cyberse
 - Training end users on security best practices through phishing campaigns and company training with knowledge articles.
 - Developed our Data Loss Prevention policies for our company with continues monitoring for false positives. 
 
-### 🏢 [IT Support Specialist at Velocity Global]
+### 🏢 IT Support Specialist at Velocity Global
 *Aug 2022 – Feb 2024*
 
 - Managed all onboarding and offboarding while ensuring 100% delivery for new hires. 
@@ -107,7 +107,7 @@ A dedicated Information Security Analyst with extensive expertise in IT, cyberse
 - Provided training and documentation for end users on Velocity Global’s tech stack. 
 
 
-### 🏢 [System Administrator at Roper St Francis Hostpital]
+### 🏢 System Administrator at Roper St Francis Hostpital
 *Feb 2022 - Aug 2022*
 
 - Provided Tier 2 support to end users and other IT teams. 
