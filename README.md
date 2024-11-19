@@ -1,4 +1,4 @@
-# 🔒 [Roderick McQueen Jr] - Information Security Analyst
+# 🔒 Roderick McQueen Jr - Information Security Analyst
 
 > *“Security is not a product, but a process.”* — Bruce Schneier
 
