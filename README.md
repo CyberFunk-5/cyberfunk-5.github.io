@@ -10,7 +10,7 @@
 
 ## 🗂️ Table of Contents
 
-- [About Me](##AboutMe##)
+- [About Me](#AboutMe)
 - [Skills](#skills)
 - [Certifications](#certifications)
 - [Projects](#projects)
@@ -65,7 +65,7 @@ A dedicated Information Security Analyst with extensive expertise in IT, cyberse
 | **Cloud Security**   | AWS Security Hub, Azure Security Center    |
 | **Programming**      | Python, Bash, PowerShell,              |
 | **Email Security**      | Mimecast              |
-| **SIEM**             | Splunk, Crowdstrike NG-Seim                |
+| **SIEM**             | Splunk, Crowdstrike NG-SIEM                |
 | **Data Loss Prevention** | Endpoint Protector, Zscaler             |
 
 
@@ -123,10 +123,10 @@ A dedicated Information Security Analyst with extensive expertise in IT, cyberse
 
 Feel free to reach out if you have any questions or collaboration opportunities:
 
-- **Email**: [yourname@example.com](mailto:roderickrmcqueen@pm.me)
-- **LinkedIn**: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/roderickmcqueen/)
-- **GitHub**: [github.com/yourusername](https://github.com/CyberFunk-5)
-- **Medium**: [@yourtwitterhandle](https://medium.com/@cyber-funk)
+- **Email**: [roderickrmcqueen@pm.me](mailto:roderickrmcqueen@pm.me)
+- **LinkedIn**: [linkedin.com/in/roderickmcqueen](https://www.linkedin.com/in/roderickmcqueen/)
+- **GitHub**: [github.com/cyberfunk-5](https://github.com/CyberFunk-5)
+- **Medium**: [@cyber-funk](https://medium.com/@cyber-funk)
 
 ---
 
