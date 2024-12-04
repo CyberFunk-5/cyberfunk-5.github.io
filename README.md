@@ -1,4 +1,4 @@
-# 🔒 Security Engineer
+# 🔒 Information Security Analyst
 
 > *“Security is not a product, but a process.”* — Bruce Schneier
 
