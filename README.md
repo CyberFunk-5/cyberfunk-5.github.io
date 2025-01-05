@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/roderickmcqueen/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/CyberFunk-5)
-[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](roderickrmcqueen@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:roderickrmcqueen@gmail.com)
 
 ---
 
