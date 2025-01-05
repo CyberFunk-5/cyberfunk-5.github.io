@@ -136,6 +136,6 @@ Feel free to reach out if you have any questions or collaboration opportunities:
 
 ### ⭐️ Support My Work
 
-If you found my projects helpful or insightful, please consider giving a ⭐️ to my [GitHub repositories]([https://github.com/](https://github.com/CyberFunk-5))!
+If you found my projects helpful or insightful, please consider giving a ⭐️ to my [GitHub repositories](https://github.com/CyberFunk-5)!
 
 ![Star Badge](https://img.shields.io/github/stars/cyberfunk-5?style=social)
