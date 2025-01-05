@@ -11,15 +11,15 @@
 ## 🗂️ Table of Contents
 
 - [About Me](https:cyberfunk-5.github.io#-about-me)
-- [Skills](#skills)
-- [Certifications](#certifications)
-- [Projects](#projects)
-- [Blogs & Write-Ups](#blogs--write-ups)
-- [Tools & Technologies](#tools--technologies)
-- [Education](#education)
-- [Experience](#experience)
-- [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
+- [Skills](https:cyberfunk-5.github.io#-skills)
+- [Certifications](https:cyberfunk-5.github.io#-certifications)
+- [Projects](https:cyberfunk-5.github.io#-projects)
+- [Blogs & Write-Ups](https:cyberfunk-5.github.io#-Blogs&Write-Ups)
+- [Tools & Technologies](#https:cyberfunk-5.github.io#-Tools&Technologies)
+- [Education](https:cyberfunk-5.github.io#-education)
+- [Experience](https:cyberfunk-5.github.io#-experience)
+- [Contact](#https:cyberfunk-5.github.io#-contact)
+- [Acknowledgements](https:cyberfunk-5.github.io#-acknowledgements)
 
 ---
 
@@ -136,6 +136,6 @@ Feel free to reach out if you have any questions or collaboration opportunities:
 
 ### ⭐️ Support My Work
 
-If you found my projects helpful or insightful, please consider giving a ⭐️ to my [GitHub repositories](https://github.com/yourusername)!
+If you found my projects helpful or insightful, please consider giving a ⭐️ to my [GitHub repositories]([https://github.com/](https://github.com/CyberFunk-5))!
 
-![Star Badge](https://img.shields.io/github/stars/yourusername?style=social)
+![Star Badge](https://img.shields.io/github/stars/cyberfunk-5?style=social)
