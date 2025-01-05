@@ -15,10 +15,10 @@
 - [Certifications](https:cyberfunk-5.github.io#-certifications)
 - [Projects](https:cyberfunk-5.github.io#-projects)
 - [Blogs & Write-Ups](https:cyberfunk-5.github.io#-Blogs&Write-Ups)
-- [Tools & Technologies](#https:cyberfunk-5.github.io#-Tools&Technologies)
+- [Tools & Technologies](https:cyberfunk-5.github.io#-Tools&Technologies)
 - [Education](https:cyberfunk-5.github.io#-education)
 - [Experience](https:cyberfunk-5.github.io#-experience)
-- [Contact](#https:cyberfunk-5.github.io#-contact)
+- [Contact](https:cyberfunk-5.github.io#-contact)
 - [Acknowledgements](https:cyberfunk-5.github.io#-acknowledgements)
 
 ---
