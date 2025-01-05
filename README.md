@@ -10,7 +10,7 @@
 
 ## 🗂️ Table of Contents
 
-- [About Me](https://github.com/CyberFunk-5/cyberfunk-5.github.io?tab=readme-ov-file#-about-me)
+- [About Me](https:cyberfunk-5.github.io#-about-me)
 - [Skills](#skills)
 - [Certifications](#certifications)
 - [Projects](#projects)
